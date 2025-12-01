@@ -55,6 +55,7 @@ jobs:
           
         sdk:
           - 22.03.7
+          - 24.10.4
           - SNAPSHOT
 
     steps:
